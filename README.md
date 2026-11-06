@@ -1,259 +1,124 @@
-[Uploading README (8).md…]()
+[README.md](https://github.com/user-attachments/files/34494791/README.md)
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARCHIVE_NO._001-B64C35?style=flat-square&labelColor=171717" alt="Archive number 001" />
+<img src="./assets/hero.gif" width="100%" alt="Animated ADII cyberpunk galaxy banner with the title and integrated technology badges" />
 
-<br/><br/>
+### ADARSH MUCHATTE
+**B.Tech Information Technology · VIT Vellore**
 
-<h1>THE DIGITAL MUSEUM</h1>
+*Software development · Full-stack engineering · Immersive 3D web · Cloud technologies*
 
-<h3><em>An archive of things that didn't exist until someone built them.</em></h3>
-
-<sub>CURATED BY &nbsp;<strong>ADARSH MUCHATTE</strong>&nbsp; · &nbsp;B.TECH INFORMATION TECHNOLOGY, VIT VELLORE</sub>
-
-<br/><br/>
-
-I'm an Information Technology student who likes building things you can wander around in: immersive 3D experiences, thoughtful interfaces, and software that feels considered. This page is the catalogue.
-
-<br/>
-
-<img src="https://img.shields.io/badge/%20-%20-B64C35?style=flat-square&labelColor=B64C35" width="64" height="6" alt="" />
+<a href="https://www.linkedin.com/in/adarsh-muchatte-9a3582332"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:adarshmuchatte@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/adarshmuchatte-lang?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## ✦ About me
+
+I’m an Information Technology B.Tech student at VIT Vellore interested in building useful software and immersive digital experiences. My work explores the space between engineering and design—from interactive browser-based worlds to full-stack foundations and algorithmic problem-solving. I’m strengthening my skills in React, Node.js, databases, 3D web development, and cloud technologies, and looking for opportunities to contribute to real products with a team.
+
+## ✦ Tech stack
 
 <div align="center">
 
-### ✦ &nbsp;CURATOR'S NOTE&nbsp; ✦
+[![Tech stack](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,aws,git,github,threejs&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br/>
+## ✦ The permanent collection
 
-I'm Adarsh, a B.Tech IT student at VIT Vellore, and I'm aiming for a career as a software developer, with SDE and full-stack roles in mind.
+<p align="center"><sub>FOUR EXHIBITS · OPEN REPOSITORIES</sub></p>
 
-Most of what's on view here started with a question: what if a website felt like a place instead of a page? That led to a generation ship, a portal you step through, and a descent into the deep ocean, all built to run in a browser. Alongside those I practise the unglamorous side of the craft, data structures and algorithms in C++, because the exhibits only hold up if the engineering underneath does.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Right now I'm strengthening my full-stack foundations (React, Node.js, databases) and looking for internship opportunities where I can build real products with a team. If a repository below catches your eye, the code is open. Please look around.
+### 001 · ABYSS — The Last Frontier
 
-<br/>
+An immersive underwater exploration website organised around depth, fading light, and the atmosphere of the deep sea.
 
----
+`HTML` · `CSS` · `JavaScript` · `WebGL`
 
-<br/>
+[↗ View repository](https://github.com/adarshmuchatte-lang/abyss-the-last-frontier)
+
+</td>
+<td width="50%" valign="top">
+
+### 002 · EXODUS
+
+A browser-based sci-fi spaceship experience following humanity’s last generation ship, EXODUS-01.
+
+`HTML` · `CSS` · `JavaScript` · `Three.js`
+
+[↗ View repository](https://github.com/adarshmuchatte-lang/Exodus)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 003 · Dimensional Portal
+
+An interactive 3D portal experience featuring a shader-driven rift and a scroll-led sequence of chapters.
+
+`React` · `Three.js` · `TypeScript`
+
+[↗ View repository](https://github.com/adarshmuchatte-lang/dimensional-portal)
+
+</td>
+<td width="50%" valign="top">
+
+### 004 · LeetCode Solutions
+
+A coding-practice repository with per-problem folders, write-ups, and C++ solutions.
+
+`C++` · `DSA`
+
+[↗ View repository](https://github.com/adarshmuchatte-lang/LeetCode-Solutions)
+
+</td>
+</tr>
+</table>
+
+## ✦ Current interests
+
+- **Full-stack development:** building complete, maintainable web applications.
+- **Immersive web graphics:** interactive 3D scenes, real-time graphics, and shaders.
+- **Software engineering fundamentals:** readable code, clean structure, data structures, and algorithms.
+- **Cloud technologies:** understanding how applications are deployed and operated.
+
+## ✦ GitHub telemetry
 
 <div align="center">
 
-### ✦ &nbsp;THE PERMANENT COLLECTION&nbsp; ✦
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshmuchatte-lang&show_icons=true&hide_border=true&bg_color=080B16&title_color=8BE9FD&text_color=E6EAF2&icon_color=BD93F9" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmuchatte-lang&layout=compact&hide_border=true&bg_color=080B16&title_color=8BE9FD&text_color=E6EAF2" alt="Most-used languages" />
 
-<sub>FOUR EXHIBITS · ALL ON VIEW</sub>
+<br/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmuchatte-lang&hide_border=true&background=080B16&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD&sideLabels=E6EAF2&dates=8C95A8" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmuchatte-lang&bg_color=080B16&color=E6EAF2&line=BD93F9&point=8BE9FD&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-<br/>
-
-<table>
-  <tr>
-    <td width="130" align="center" valign="top">
-      <h1>001</h1>
-      <sub>EXHIBIT</sub>
-    </td>
-    <td valign="top">
-      <h3>ABYSS — THE LAST FRONTIER</h3>
-      <em>An immersive underwater exploration website.</em>
-      <p>A descent rather than a page. The experience is organised around depth, light fading to dark, and the glow of deep-sea life.</p>
-      <sub><strong>MEDIUM</strong> &nbsp;HTML · CSS · JavaScript · WebGL</sub>
-      <br/><br/>
-      <a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier"><strong>VIEW THE REPOSITORY →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="130" align="center" valign="top">
-      <h1>002</h1>
-      <sub>EXHIBIT</sub>
-    </td>
-    <td valign="top">
-      <h3>EXODUS</h3>
-      <em>An immersive 3D sci-fi spaceship experience.</em>
-      <p>Humanity's last generation ship, EXODUS-01, bound for a distant world. Rendered in the browser with a 2D fallback for when 3D isn't available.</p>
-      <sub><strong>MEDIUM</strong> &nbsp;HTML · CSS · JavaScript · Three.js</sub>
-      <br/><br/>
-      <a href="https://github.com/adarshmuchatte-lang/Exodus"><strong>VIEW THE REPOSITORY →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="130" align="center" valign="top">
-      <h1>003</h1>
-      <sub>EXHIBIT</sub>
-    </td>
-    <td valign="top">
-      <h3>DIMENSIONAL PORTAL</h3>
-      <em>An interactive 3D dimensional portal using Three.js.</em>
-      <p>The portal is the main character: a shader-driven rift at the centre of a scroll-led journey through a series of chapters.</p>
-      <sub><strong>MEDIUM</strong> &nbsp;React · Three.js · TypeScript</sub>
-      <br/><br/>
-      <a href="https://github.com/adarshmuchatte-lang/dimensional-portal"><strong>VIEW THE REPOSITORY →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="130" align="center" valign="top">
-      <h1>004</h1>
-      <sub>EXHIBIT</sub>
-    </td>
-    <td valign="top">
-      <h3>LEETCODE SOLUTIONS</h3>
-      <em>A repository for coding practice and problem-solving.</em>
-      <p>The workshop behind the galleries. One folder per problem, each with a write-up and a C++ solution.</p>
-      <sub><strong>MEDIUM</strong> &nbsp;C++</sub>
-      <br/><br/>
-      <a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions"><strong>VIEW THE REPOSITORY →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<sub>Statistics and contribution visuals are served externally and may occasionally be unavailable.</sub>
 
 ---
 
-<br/>
-
 <div align="center">
 
-### ✦ &nbsp;THE MATERIALS LIBRARY&nbsp; ✦
+### ✦ Let’s connect
 
-<sub>THE TOOLS BEHIND THE WORK · DEPTH VARIES, AND I'M STILL LEARNING</sub>
+Open to conversations about software development, internships, and creative digital experiences.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/adarsh-muchatte-9a3582332) · [Email](mailto:adarshmuchatte@gmail.com) · [All repositories](https://github.com/adarshmuchatte-lang?tab=repositories)
 
-<br/>
-
-<table>
-  <tr>
-    <td width="260" valign="top"><sub><strong>I. &nbsp;LANGUAGES</strong></sub></td>
-    <td valign="top">C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><strong>II. &nbsp;FRONTEND &amp; INTERACTIVE</strong></sub></td>
-    <td valign="top">HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; React &nbsp;·&nbsp; Three.js</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><strong>III. &nbsp;BACKEND &amp; DATA</strong></sub></td>
-    <td valign="top">Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; SQL</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><strong>IV. &nbsp;CLOUD &amp; TOOLS</strong></sub></td>
-    <td valign="top">AWS &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp;FIELD NOTES&nbsp; ✦
-
-<sub>WHAT I'M CURIOUS ABOUT</sub>
-
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="60" align="center" valign="top"><sub>№ 1</sub></td>
-    <td><strong>Interactive web development.</strong> Pages that respond to how you move through them.</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub>№ 2</sub></td>
-    <td><strong>Immersive 3D experiences.</strong> Real-time graphics in the browser, from scenes to shaders.</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub>№ 3</sub></td>
-    <td><strong>Software engineering fundamentals.</strong> Clean structure, readable code, and sound foundations.</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub>№ 4</sub></td>
-    <td><strong>Data structures and algorithms.</strong> Steady practice, one problem at a time.</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub>№ 5</sub></td>
-    <td><strong>Technical work with design in mind.</strong> Projects where it works <em>and</em> it feels right.</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp;ARCHIVE STATISTICS&nbsp; ✦
-
-<sub>LIVE FROM GITHUB · THESE CARDS LOAD FROM EXTERNAL SERVICES AND MAY TAKE A MOMENT</sub>
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshmuchatte-lang&show_icons=true&hide_border=false&bg_color=F5F3EE&title_color=B64C35&text_color=171717&icon_color=B64C35&border_color=D5D0C7" alt="GitHub statistics for adarshmuchatte-lang" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmuchatte-lang&layout=compact&bg_color=F5F3EE&title_color=B64C35&text_color=171717&border_color=D5D0C7" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmuchatte-lang&bg_color=F5F3EE&color=171717&line=B64C35&point=171717&area=true&area_color=B64C35&hide_border=true&title_color=B64C35" alt="Contribution activity graph" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp;PLAN YOUR NEXT VISIT&nbsp; ✦
-
-<em>For collaborations, software development opportunities, or conversations about digital experiences.</em>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/adarsh-muchatte-9a3582332"><strong>LINKEDIN</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:adarshmuchatte@gmail.com"><strong>EMAIL</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/adarshmuchatte-lang?tab=repositories"><strong>ALL REPOSITORIES</strong></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%20-%20-B64C35?style=flat-square&labelColor=B64C35" width="64" height="6" alt="" />
-
-<br/><br/>
-
-<sub>END OF ARCHIVE — THANK YOU FOR VISITING.</sub>
+<sub>BUILD WITH CURIOSITY · SHIP WITH CARE</sub>
 
 </div>
