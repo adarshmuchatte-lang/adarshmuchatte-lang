@@ -1,8 +1,7 @@
-[README.md](https://github.com/user-attachments/files/34494791/README.md)
+
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Animated ADII cyberpunk galaxy banner with the title and integrated technology badges" />
-
+<img src="./hero.gif" width="100%" alt="ADII animated cyberpunk galaxy banner" />
 ### ADARSH MUCHATTE
 **B.Tech Information Technology · VIT Vellore**
 
@@ -17,8 +16,12 @@
 ---
 
 ## ✦ About me
-
-I’m an Information Technology B.Tech student at VIT Vellore interested in building useful software and immersive digital experiences. My work explores the space between engineering and design—from interactive browser-based worlds to full-stack foundations and algorithmic problem-solving. I’m strengthening my skills in React, Node.js, databases, 3D web development, and cloud technologies, and looking for opportunities to contribute to real products with a team.
+I’m a B.Tech Information Technology student at Vellore Institute of Technology (VIT Vellore), passionate about building modern web applications, AI-powered solutions, and real-world software products.
+My strongest area is Web & Full-Stack Development, where I enjoy transforming ideas into responsive, interactive, and user-focused applications. I work with HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, and REST APIs.
+I also explore AI/ML, AWS Cloud, Data Analytics, and IoT, and have worked on projects combining these technologies to solve practical problems.
+Some of my projects include a Smart Shopping Management System, AI-based Accident/Driver Risk Detection System, IoT-based solutions, and AWS-integrated AI/cloud projects.
+I’m currently looking for internship opportunities in Web Development, Frontend Development, Full-Stack Development, Software Development, AI/ML, and Cloud Computing, where I can contribute to real-world projects and continue developing my technical skills.
+Tech Stack: JavaScript • React.js • Node.js • Express.js • MongoDB • HTML • CSS • SQL • Python • Java • C++ • Firebase • AWS • Git/GitHub
 
 ## ✦ Tech stack
 
