@@ -1,160 +1,108 @@
-[README_Cosmic_Cyberpunk (1).md](https://github.com/user-attachments/files/34481831/README_Cosmic_Cyberpunk.1.md)
+[Uploading README.md…]()
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="ADII — systems online, building worlds in the browser" />
 
-<br />
-
 <a href="https://github.com/adarshmuchatte-lang">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&height=48&lines=%3E+INITIALIZING+ADII.EXE;%3E+B.Tech+IT+%40+VIT+Vellore;%3E+Building+immersive+web+experiences;%3E+Exploring+React+%26+Three.js;%3E+Learning+DSA+with+C%2B%2B+%26+Java;%3E+STATUS%3A+ALWAYS+SHIPPING" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=%3E%20INITIALIZING%20ADII.EXE%20...;%3E%20B.Tech%20IT%20%40%20VIT%20Vellore;%3E%20Building%20immersive%20web%20worlds;%3E%20Exploring%20React%20%26%20Three.js;%3E%20Learning%20DSA%20with%20C%2B%2B%20%26%20Java;%3E%20STATUS%3A%20ALWAYS%20SHIPPING" alt="Rotating headline: initializing ADII.EXE, B.Tech IT at VIT Vellore, building immersive web worlds, exploring React and Three.js, learning DSA with C++ and Java, always shipping" />
 </a>
 
-<br />
+<br/>
 
-<img src="./assets/status.svg" width="100%" alt="Status online · VIT Vellore · 3D web development · DSA and C++" />
+<img src="./assets/status.svg" width="760" alt="Status online · Base VIT Vellore · Mode 3D web dev · Fuel DSA + C++" />
 
-<br /><br />
+<br/>
 
-<a href="https://github.com/adarshmuchatte-lang?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0b0f14?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=111827" alt="Explore projects" />
-</a>
-<a href="https://www.linkedin.com/in/adarsh-muchatte-9a3582332">
-  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=111827" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:adarshmuchatte@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-EMAIL-0b0f14?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=111827" alt="Send email" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=adarshmuchatte-lang&amp;label=SIGNALS+RECEIVED&amp;color=7dd3fc&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/adarshmuchatte-lang?label=CREW&amp;style=for-the-badge&amp;color=7dd3fc&amp;labelColor=0b0f14" alt="GitHub followers" />
 
-<br /><br />
+<br/><br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal boot sequence" />
+<img src="./assets/terminal.svg" width="760" alt="Terminal boot sequence: loading Three.js, opening the dimensional portal, descending into the abyss, launching EXODUS-01" />
 
 </div>
 
----
+<br/>
 
-## `01 / TRANSMISSION`
+<img src="./assets/section-who.svg" width="100%" alt="WHO I AM" />
 
-Hey, I'm **Adarsh Muchatte** — an Information Technology student at **VIT Vellore**, interested in building web experiences that feel as good as they function.
+Hi, I'm **Adarsh** (ADII) — a B.Tech Information Technology student at **VIT Vellore** who likes building websites you can explore rather than just scroll.
 
-I enjoy combining frontend development, interactive 3D visuals, and practical software engineering. I'm also strengthening my problem-solving and data-structures fundamentals as I work toward software development opportunities.
+- **What I build:** immersive, interactive web experiences — a generation-ship interface, a shader-driven dimensional portal, and a deep-ocean descent, all running in the browser.
+- **What I'm learning:** React and Node.js for full-stack work, and Java alongside C++ for problem solving.
+- **What I'm practising:** data structures and algorithms in C++ through [LeetCode-Solutions](https://github.com/adarshmuchatte-lang/LeetCode-Solutions).
+- **What I'm looking for:** SDE and full-stack development internships.
 
-- 🚀 **Building:** immersive, interactive web projects
-- 🌌 **Exploring:** React, Three.js, and modern web development
-- 🧠 **Practising:** DSA and problem-solving with C++ and Java
-- 🤝 **Interested in:** SDE / full-stack internships and collaborative projects
+If you'd like to see how I work, the mission dossiers below link straight to the code. Open one, read the source, and tell me what you think.
 
-## `02 / MISSION DOSSIERS`
+<br/>
+
+<img src="./assets/section-missions.svg" width="100%" alt="MISSION DOSSIERS" />
 
 <div align="center">
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/Exodus">
-        <img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/Exodus">EXODUS</a></strong>
-      <br />
-      A futuristic project exploring a generation-ship concept.
+    <td width="50%" align="center">
+      <a href="https://github.com/adarshmuchatte-lang/Exodus"><img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship. HTML, CSS, JavaScript and Three.js." /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/dimensional-portal">
-        <img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL PORTAL — step through the rift" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/dimensional-portal">DIMENSIONAL PORTAL</a></strong>
-      <br />
-      An immersive portal-inspired web experience.
+    <td width="50%" align="center">
+      <a href="https://github.com/adarshmuchatte-lang/dimensional-portal"><img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL-PORTAL — step through the rift. React, Three.js and TypeScript." /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">
-        <img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">ABYSS — THE LAST FRONTIER</a></strong>
-      <br />
-      An underwater exploration experience built for the browser.
+    <td width="50%" align="center">
+      <a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier"><img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier. An immersive underwater exploration experience." /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">
-        <img src="./assets/card-leetcode.svg" width="100%" alt="LeetCode solutions" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">LEETCODE SOLUTIONS</a></strong>
-      <br />
-      A place to practise coding problems and improve problem-solving.
+    <td width="50%" align="center">
+      <a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions"><img src="./assets/card-leetcode.svg" width="100%" alt="LEETCODE SOLUTIONS — problems solved in C++." /></a>
     </td>
   </tr>
 </table>
 </div>
 
-> **Recruiter note:** Open a project repository to explore its implementation, technologies, and documentation.
+<br/>
 
-## `03 / TECH ARSENAL`
+<img src="./assets/section-arsenal.svg" width="100%" alt="TECH ARSENAL" />
 
 <div align="center">
-  <img src="./assets/section-arsenal.svg" width="100%" alt="Tech arsenal" />
-  <br />
-  <img src="./assets/stack.svg" width="100%" alt="Languages, frontend technologies, and developer tools" />
+<img src="./assets/stack.svg" width="100%" alt="Hands-on: HTML, CSS, JavaScript, C++, Three.js, WebGL, Git, GitHub. Currently learning: Java, React, Node.js." />
 </div>
 
-### Current focus
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="Frontend technologies" />
-  <img src="https://img.shields.io/badge/3D%20Web-Three.js-0b0f14?style=flat-square&logo=threedotjs&logoColor=7dd3fc" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Programming-C%2B%2B%20%7C%20Java-0b0f14?style=flat-square&logo=codeforces&logoColor=ec4899" alt="C++ and Java" />
-  <img src="https://img.shields.io/badge/Tools-GitHub%20%7C%20VS%20Code-0b0f14?style=flat-square&logo=github&logoColor=a855f7" alt="Developer tools" />
-</p>
-
-I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, SQL, and modern web development** while building projects and practising DSA.
-
-## `04 / TELEMETRY`
+<img src="./assets/section-telemetry.svg" width="100%" alt="TELEMETRY" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshmuchatte-lang&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=7dd3fc&text_color=c9d1d9&icon_color=ec4899" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmuchatte-lang&layout=donut&hide_border=true&bg_color=0b0f14&title_color=a855f7&text_color=c9d1d9" alt="Most-used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshmuchatte-lang&amp;show_icons=true&amp;bg_color=0b0f14&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=ec4899&amp;border_color=7dd3fc" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmuchatte-lang&amp;layout=donut&amp;bg_color=0b0f14&amp;title_color=a855f7&amp;text_color=c9d1d9&amp;border_color=a855f7" alt="Top languages" />
 
-<br />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=adarshmuchatte-lang&hide_border=true&background=0b0f14&ring=ec4899&fire=7dd3fc&currStreakNum=7dd3fc&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=adarshmuchatte-lang&amp;background=0b0f14&amp;ring=ec4899&amp;fire=7dd3fc&amp;currStreakNum=7dd3fc&amp;currStreakLabel=a855f7&amp;sideNums=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;border=7dd3fc" alt="Contribution streak" />
 
-<br /><br />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarshmuchatte-lang&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub profile trophies" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmuchatte-lang&bg_color=0b0f14&color=7dd3fc&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmuchatte-lang&amp;bg_color=0b0f14&amp;color=7dd3fc&amp;line=ec4899&amp;point=ffffff&amp;area=true&amp;area_color=a855f7&amp;hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
-## `05 / OPEN COMMS CHANNEL`
+<br/>
+
+<img src="./assets/section-comms.svg" width="100%" alt="OPEN COMMS CHANNEL" />
 
 <div align="center">
 
-<img src="./assets/section-comms.svg" width="100%" alt="Open communications channel" />
-
-<a href="https://www.linkedin.com/in/adarsh-muchatte-9a3582332">
-  <img src="./assets/btn-linkedin.svg" width="260" alt="Connect on LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/adarsh-muchatte-9a3582332"><img src="./assets/btn-linkedin.svg" width="260" alt="LinkedIn — transmit" /></a>
 &nbsp;&nbsp;
-<a href="mailto:adarshmuchatte@gmail.com">
-  <img src="./assets/btn-email.svg" width="260" alt="Send me an email" />
-</a>
+<a href="mailto:adarshmuchatte@gmail.com"><img src="./assets/btn-email.svg" width="260" alt="Email — ping" /></a>
 
-<br /><br />
+<br/>
 
-<a href="https://github.com/adarshmuchatte-lang?tab=repositories">
-  <img src="https://img.shields.io/badge/TRANSMISSION-EXPLORE%20MY%20REPOSITORIES-0b0f14?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="Explore all repositories" />
-</a>
-
-<br /><br />
-
-<img src="./assets/footer.svg" width="100%" alt="End of transmission" />
+Or browse everything I've built: [github.com/adarshmuchatte-lang?tab=repositories](https://github.com/adarshmuchatte-lang?tab=repositories)
 
 </div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="END OF TRANSMISSION" />
