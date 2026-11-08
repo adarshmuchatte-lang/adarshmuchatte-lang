@@ -1,4 +1,4 @@
-[README_Cosmic_Cyberpunk (1).md](https://github.com/user-attachments/files/34495543/README_Cosmic_Cyberpunk.1.md)
+[Uploading Adii-Profile-README-Updated.md…]()
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="ADII — systems online, building worlds in the browser" />
@@ -6,12 +6,12 @@
 <br />
 
 <a href="https://github.com/adarshmuchatte-lang">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&height=48&lines=%3E+INITIALIZING+ADII.EXE;%3E+B.Tech+IT+%40+VIT+Vellore;%3E+Building+immersive+web+experiences;%3E+Exploring+React+%26+Three.js;%3E+Learning+DSA+with+C%2B%2B+%26+Java;%3E+STATUS%3A+ALWAYS+SHIPPING" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&height=48&lines=%3E+INITIALIZING+ADII.EXE;%3E+B.Tech+IT+%40+VIT+Vellore;%3E+Building+immersive+web+experiences;%3E+Exploring+React+%26+Three.js;%3E+Building+AI-powered+AWS+cloud+tools;%3E+Learning+DSA+with+C%2B%2B+%26+Java;%3E+STATUS%3A+ALWAYS+SHIPPING" alt="Animated introduction" />
 </a>
 
 <br />
 
-<img src="./assets/status.svg" width="100%" alt="Status online · VIT Vellore · 3D web development · DSA and C++" />
+<img src="./assets/status.svg" width="100%" alt="Status online · VIT Vellore · 3D web development · AI and cloud · DSA and C++" />
 
 <br /><br />
 
@@ -37,10 +37,10 @@
 
 Hey, I'm **Adarsh Muchatte** — an Information Technology student at **VIT Vellore**, interested in building web experiences that feel as good as they function.
 
-I enjoy combining frontend development, interactive 3D visuals, and practical software engineering. I'm also strengthening my problem-solving and data-structures fundamentals as I work toward software development opportunities.
+I enjoy combining frontend development, interactive 3D visuals, AI-powered applications, and practical software engineering. I'm also strengthening my problem-solving and data-structures fundamentals as I work toward software development opportunities.
 
-- 🚀 **Building:** immersive, interactive web projects
-- 🌌 **Exploring:** React, Three.js, and modern web development
+- 🚀 **Building:** immersive, interactive web projects and AI-powered applications
+- ☁️ **Exploring:** AWS, cloud architecture, Amazon Bedrock, React, and Three.js
 - 🧠 **Practising:** DSA and problem-solving with C++ and Java
 - 🤝 **Interested in:** SDE / full-stack internships and collaborative projects
 
@@ -50,6 +50,17 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">
+        <img src="./assets/card-cloudarchitect-ai.svg" width="100%" alt="CLOUDARCHITECT AI — intelligent AWS architecture recommendations" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">CLOUDARCHITECT AI</a></strong>
+      <br />
+      An AI-powered AWS architecture recommendation platform with deterministic service selection, Amazon Bedrock explanations, architecture visualization, Cognito authentication, and DynamoDB-backed history.
+      <br />
+      <sub>Node.js · AWS Lambda · Amazon Bedrock · Cognito · DynamoDB</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/adarshmuchatte-lang/Exodus">
         <img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship" />
       </a>
@@ -58,6 +69,8 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
       <br />
       A futuristic project exploring a generation-ship concept.
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/adarshmuchatte-lang/dimensional-portal">
         <img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL PORTAL — step through the rift" />
@@ -67,8 +80,6 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
       <br />
       An immersive portal-inspired web experience.
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">
         <img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier" />
@@ -78,6 +89,8 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
       <br />
       An underwater exploration experience built for the browser.
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">
         <img src="./assets/card-leetcode.svg" width="100%" alt="LeetCode solutions" />
@@ -86,6 +99,13 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
       <strong><a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">LEETCODE SOLUTIONS</a></strong>
       <br />
       A place to practise coding problems and improve problem-solving.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=MORE%20MISSIONS&fontSize=22&fontColor=7DD3FC&color=0:0b0f14,100:172554&desc=New%20builds%20loading...&descSize=13" width="100%" alt="More projects coming soon" />
+      <br />
+      <strong>MORE BUILDS LOADING</strong>
+      <br />
+      New experiments, ideas and engineering projects in progress.
     </td>
   </tr>
 </table>
@@ -98,7 +118,7 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
 <div align="center">
   <img src="./assets/section-arsenal.svg" width="100%" alt="Tech arsenal" />
   <br />
-  <img src="./assets/stack.svg" width="100%" alt="Languages, frontend technologies, and developer tools" />
+  <img src="./assets/stack.svg" width="100%" alt="Languages, frontend technologies, cloud technologies, and developer tools" />
 </div>
 
 ### Current focus
@@ -106,11 +126,13 @@ I enjoy combining frontend development, interactive 3D visuals, and practical so
 <p>
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="Frontend technologies" />
   <img src="https://img.shields.io/badge/3D%20Web-Three.js-0b0f14?style=flat-square&logo=threedotjs&logoColor=7dd3fc" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-0b0f14?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/AI-Amazon%20Bedrock-0b0f14?style=flat-square&logo=amazonaws&logoColor=a855f7" alt="Amazon Bedrock" />
   <img src="https://img.shields.io/badge/Programming-C%2B%2B%20%7C%20Java-0b0f14?style=flat-square&logo=codeforces&logoColor=ec4899" alt="C++ and Java" />
   <img src="https://img.shields.io/badge/Tools-GitHub%20%7C%20VS%20Code-0b0f14?style=flat-square&logo=github&logoColor=a855f7" alt="Developer tools" />
 </p>
 
-I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, SQL, and modern web development** while building projects and practising DSA.
+I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, SQL, AWS, and modern web development** while building projects and practising DSA.
 
 ## `04 / TELEMETRY`
 
