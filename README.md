@@ -1,4 +1,3 @@
-[Uploading Adii-Profile-README-Updated.md…]()
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="ADII — systems online, building worlds in the browser" />
@@ -47,68 +46,57 @@ I enjoy combining frontend development, interactive 3D visuals, AI-powered appli
 ## `02 / MISSION DOSSIERS`
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">
-        <img src="./assets/card-cloudarchitect-ai.svg" width="100%" alt="CLOUDARCHITECT AI — intelligent AWS architecture recommendations" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">CLOUDARCHITECT AI</a></strong>
-      <br />
-      An AI-powered AWS architecture recommendation platform with deterministic service selection, Amazon Bedrock explanations, architecture visualization, Cognito authentication, and DynamoDB-backed history.
-      <br />
-      <sub>Node.js · AWS Lambda · Amazon Bedrock · Cognito · DynamoDB</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/Exodus">
-        <img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/Exodus">EXODUS</a></strong>
-      <br />
-      A futuristic project exploring a generation-ship concept.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/dimensional-portal">
-        <img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL PORTAL — step through the rift" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/dimensional-portal">DIMENSIONAL PORTAL</a></strong>
-      <br />
-      An immersive portal-inspired web experience.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">
-        <img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">ABYSS — THE LAST FRONTIER</a></strong>
-      <br />
-      An underwater exploration experience built for the browser.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">
-        <img src="./assets/card-leetcode.svg" width="100%" alt="LeetCode solutions" />
-      </a>
-      <br />
-      <strong><a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">LEETCODE SOLUTIONS</a></strong>
-      <br />
-      A place to practise coding problems and improve problem-solving.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=MORE%20MISSIONS&fontSize=22&fontColor=7DD3FC&color=0:0b0f14,100:172554&desc=New%20builds%20loading...&descSize=13" width="100%" alt="More projects coming soon" />
-      <br />
-      <strong>MORE BUILDS LOADING</strong>
-      <br />
-      New experiments, ideas and engineering projects in progress.
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">
+  <img src="./assets/card-cloudarchitect-ai.svg" width="100%" alt="CloudArchitect AI — AI-powered AWS architecture intelligence" />
+</a>
+
+**[CLOUDARCHITECT AI](https://github.com/adarshmuchatte-lang/cloudarchitect-ai)**
+
+An AI-powered AWS architecture recommendation platform featuring deterministic service selection, Amazon Bedrock explanations, architecture visualization, Cognito authentication, and DynamoDB-backed history.
+
+`Node.js` · `AWS Lambda` · `Amazon Bedrock` · `Amazon Cognito` · `DynamoDB`
+
+---
+
+<a href="https://github.com/adarshmuchatte-lang/Exodus">
+  <img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship" />
+</a>
+
+**[EXODUS](https://github.com/adarshmuchatte-lang/Exodus)**
+
+A futuristic project exploring a generation-ship concept.
+
+---
+
+<a href="https://github.com/adarshmuchatte-lang/dimensional-portal">
+  <img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL PORTAL — step through the rift" />
+</a>
+
+**[DIMENSIONAL PORTAL](https://github.com/adarshmuchatte-lang/dimensional-portal)**
+
+An immersive portal-inspired web experience.
+
+---
+
+<a href="https://github.com/adarshmuchatte-lang/abyss-the-last-frontier">
+  <img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier" />
+</a>
+
+**[ABYSS — THE LAST FRONTIER](https://github.com/adarshmuchatte-lang/abyss-the-last-frontier)**
+
+An underwater exploration experience built for the browser.
+
+---
+
+<a href="https://github.com/adarshmuchatte-lang/LeetCode-Solutions">
+  <img src="./assets/card-leetcode.svg" width="100%" alt="LeetCode solutions" />
+</a>
+
+**[LEETCODE SOLUTIONS](https://github.com/adarshmuchatte-lang/LeetCode-Solutions)**
+
+A place to practise coding problems and improve problem-solving.
+
 </div>
 
 > **Recruiter note:** Open a project repository to explore its implementation, technologies, and documentation.
@@ -139,6 +127,7 @@ I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, S
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshmuchatte-lang&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=7dd3fc&text_color=c9d1d9&icon_color=ec4899" alt="GitHub statistics" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmuchatte-lang&layout=donut&hide_border=true&bg_color=0b0f14&title_color=a855f7&text_color=c9d1d9" alt="Most-used languages" />
 
 <br />
