@@ -1,3 +1,4 @@
+[Uploading Adarsh-Profile-README-Final.md…]()
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="ADII — systems online, building worlds in the browser" />
@@ -43,7 +44,7 @@ I enjoy combining frontend development, interactive 3D visuals, AI-powered appli
 - 🧠 **Practising:** DSA and problem-solving with C++ and Java
 - 🤝 **Interested in:** SDE / full-stack internships and collaborative projects
 
-## `02 / MISSION DOSSIERS`
+## `02 / FEATURED MISSION — CLOUDARCHITECT AI`
 
 <div align="center">
 
@@ -51,21 +52,37 @@ I enjoy combining frontend development, interactive 3D visuals, AI-powered appli
   <img src="./assets/card-cloudarchitect-ai.svg" width="100%" alt="CloudArchitect AI — AI-powered AWS architecture intelligence" />
 </a>
 
-**[CLOUDARCHITECT AI](https://github.com/adarshmuchatte-lang/cloudarchitect-ai)**
+### ☁️ CLOUDARCHITECT AI
 
-An AI-powered AWS architecture recommendation platform featuring deterministic service selection, Amazon Bedrock explanations, architecture visualization, Cognito authentication, and DynamoDB-backed history.
+**DESIGN THE CLOUD. INTELLIGENTLY.**
 
-`Node.js` · `AWS Lambda` · `Amazon Bedrock` · `Amazon Cognito` · `DynamoDB`
+An AWS architecture recommendation platform that combines deterministic service selection with optional Amazon Bedrock explanations. The application includes Cognito authentication, a Lambda/API Gateway backend, DynamoDB-backed recommendation history, an interactive architecture graph, and PNG/SVG graph exports.
 
----
+<a href="https://github.com/adarshmuchatte-lang/cloudarchitect-ai">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-CloudArchitect%20AI-00CFFF?style=for-the-badge&logo=github&logoColor=0b0f14" alt="Open CloudArchitect AI repository" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20API%20Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Lambda and API Gateway" />
+<img src="https://img.shields.io/badge/AI-Amazon%20Bedrock-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/Auth-Amazon%20Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Cognito" />
+<img src="https://img.shields.io/badge/Database-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" />
+
+</div>
+
+> **Architecture note:** the recommendation engine chooses services using deterministic rules; Bedrock is used to explain the result, not to make the service-selection decision. Cost labels are qualitative categories, not live AWS price estimates.
+
+## `03 / OTHER PROJECTS`
+
+<div align="center">
 
 <a href="https://github.com/adarshmuchatte-lang/Exodus">
   <img src="./assets/card-exodus.svg" width="100%" alt="EXODUS — humanity's last generation ship" />
 </a>
 
-**[EXODUS](https://github.com/adarshmuchatte-lang/Exodus)**
-
-A futuristic project exploring a generation-ship concept.
+**[EXODUS](https://github.com/adarshmuchatte-lang/Exodus)**  
+A futuristic generation-ship concept.
 
 ---
 
@@ -73,8 +90,7 @@ A futuristic project exploring a generation-ship concept.
   <img src="./assets/card-dimensional-portal.svg" width="100%" alt="DIMENSIONAL PORTAL — step through the rift" />
 </a>
 
-**[DIMENSIONAL PORTAL](https://github.com/adarshmuchatte-lang/dimensional-portal)**
-
+**[DIMENSIONAL PORTAL](https://github.com/adarshmuchatte-lang/dimensional-portal)**  
 An immersive portal-inspired web experience.
 
 ---
@@ -83,8 +99,7 @@ An immersive portal-inspired web experience.
   <img src="./assets/card-abyss.svg" width="100%" alt="ABYSS — the last frontier" />
 </a>
 
-**[ABYSS — THE LAST FRONTIER](https://github.com/adarshmuchatte-lang/abyss-the-last-frontier)**
-
+**[ABYSS — THE LAST FRONTIER](https://github.com/adarshmuchatte-lang/abyss-the-last-frontier)**  
 An underwater exploration experience built for the browser.
 
 ---
@@ -93,15 +108,12 @@ An underwater exploration experience built for the browser.
   <img src="./assets/card-leetcode.svg" width="100%" alt="LeetCode solutions" />
 </a>
 
-**[LEETCODE SOLUTIONS](https://github.com/adarshmuchatte-lang/LeetCode-Solutions)**
-
+**[LEETCODE SOLUTIONS](https://github.com/adarshmuchatte-lang/LeetCode-Solutions)**  
 A place to practise coding problems and improve problem-solving.
 
 </div>
 
-> **Recruiter note:** Open a project repository to explore its implementation, technologies, and documentation.
-
-## `03 / TECH ARSENAL`
+## `04 / TECH ARSENAL`
 
 <div align="center">
   <img src="./assets/section-arsenal.svg" width="100%" alt="Tech arsenal" />
@@ -122,7 +134,7 @@ A place to practise coding problems and improve problem-solving.
 
 I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, SQL, AWS, and modern web development** while building projects and practising DSA.
 
-## `04 / TELEMETRY`
+## `05 / TELEMETRY`
 
 <div align="center">
 
@@ -144,7 +156,7 @@ I'm continuing to develop my skills across **React, Node.js, Express, MongoDB, S
 
 </div>
 
-## `05 / OPEN COMMS CHANNEL`
+## `06 / OPEN COMMS CHANNEL`
 
 <div align="center">
 
